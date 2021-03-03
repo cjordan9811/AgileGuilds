@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Guild</name>
+        <order>100</order>
+        <roles>x_arsu_agile_guild.guild_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>SN_CLJORDAN</sys_created_by>
+        <sys_created_on>2021-03-03 19:44:18</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>abbfe2631ba2e0109a9cca2b234bcb19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Guild</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Agile Guilds" source="x_arsu_agile_guild">08c0a9631b6ea0109a9cca2b234bcb0d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Agile Guilds">08c0a9631b6ea0109a9cca2b234bcb0d</sys_scope>
+        <sys_update_name>sys_app_application_abbfe2631ba2e0109a9cca2b234bcb19</sys_update_name>
+        <sys_updated_by>SN_CLJORDAN</sys_updated_by>
+        <sys_updated_on>2021-03-03 19:44:18</sys_updated_on>
+        <title>Guild</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Agile Guilds">08c0a9631b6ea0109a9cca2b234bcb0d</application>
+        <comments/>
+        <file_path/>
+        <instance_id>ebbf01b80135cd042e4af01da3b6d448</instance_id>
+        <instance_name>asudev</instance_name>
+        <name>sys_app_application_abbfe2631ba2e0109a9cca2b234bcb19</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Guild</name><order>100</order><roles>x_arsu_agile_guild.guild_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>SN_CLJORDAN</sys_created_by><sys_created_on>2021-03-03 19:44:18</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>abbfe2631ba2e0109a9cca2b234bcb19</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Guild</sys_name><sys_overrides/><sys_package display_value="Agile Guilds" source="x_arsu_agile_guild">08c0a9631b6ea0109a9cca2b234bcb0d</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Agile Guilds">08c0a9631b6ea0109a9cca2b234bcb0d</sys_scope><sys_update_name>sys_app_application_abbfe2631ba2e0109a9cca2b234bcb19</sys_update_name><sys_updated_by>SN_CLJORDAN</sys_updated_by><sys_updated_on>2021-03-03 19:44:18</sys_updated_on><title>Guild</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-50553754</payload_hash>
+        <record_name>Guild</record_name>
+        <reverted_from/>
+        <source>bba9e12b1b6ea0109a9cca2b234bcb90</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>SN_CLJORDAN</sys_created_by>
+        <sys_created_on>2021-03-03 19:44:18</sys_created_on>
+        <sys_id>ebbfe2631ba2e0109a9cca2b234bcb1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177f99ea09b0000001</sys_recorded_at>
+        <sys_updated_by>SN_CLJORDAN</sys_updated_by>
+        <sys_updated_on>2021-03-03 19:44:18</sys_updated_on>
+        <type>Application Menu</type>
+        <u_link>[code]&lt;a title="sys_app_application_abbfe2631ba2e0109a9cca2b234bcb19" class="linked" href="sys_app_application.do?sys_id=abbfe2631ba2e0109a9cca2b234bcb19"&gt;sys_app_application_abbfe2631ba2e0109a9cca2b234bcb19&lt;/a&gt;[/code]</u_link>
+        <update_guid>e3bfe2638aa2e01084b6078a01668a1c</update_guid>
+        <update_guid_history>e3bfe2638aa2e01084b6078a01668a1c:-50553754</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2021-03-03 12:45:14">09ffe6631ba2e0109a9cca2b234bcbf3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>SN_CLJORDAN</sys_created_by>
+        <sys_created_on>2021-03-03 19:45:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>05513583240041808025a5028fb99000</sys_id>
+        <sys_metadata>abbfe2631ba2e0109a9cca2b234bcb19</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Guild</sys_name>
+        <sys_package display_value="Agile Guilds" source="x_arsu_agile_guild">08c0a9631b6ea0109a9cca2b234bcb0d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Agile Guilds">08c0a9631b6ea0109a9cca2b234bcb0d</sys_scope>
+        <sys_scope_delete display_value="">1232ebb1dc064f6a85e9fb1c2b0dd7c4</sys_scope_delete>
+        <sys_update_name>sys_app_application_abbfe2631ba2e0109a9cca2b234bcb19</sys_update_name>
+        <sys_update_version display_value="sys_app_application_abbfe2631ba2e0109a9cca2b234bcb19">ebbfe2631ba2e0109a9cca2b234bcb1c</sys_update_version>
+        <sys_updated_by>SN_CLJORDAN</sys_updated_by>
+        <sys_updated_on>2021-03-03 19:45:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

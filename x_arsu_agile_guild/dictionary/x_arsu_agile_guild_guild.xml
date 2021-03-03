@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Guild" max_length="40" name="x_arsu_agile_guild_guild" type="collection"/>
+</database>
