@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Guild" max_length="40" name="x_arsu_agile_guild_guild" type="collection"/>
+    <element label="Guild" max_length="40" name="x_arsu_agile_guild_guild" type="collection">
+        <element label="Description" mandatory="true" max_length="5000" name="description" type="string"/>
+        <element label="Guild master(s)" max_length="4000" name="guild_master_s" reference="sys_user" reference_qual="employee_numberISNOTEMPTY^EQ" reference_qual_condition="employee_numberISNOTEMPTY^EQ" type="glide_list"/>
+        <element label="Icon" max_length="100" name="icon" type="user_image"/>
+        <element label="Name" mandatory="true" max_length="120" name="name" type="string"/>
+        <element label="Slack channel" max_length="80" name="slack_channel" type="string"/>
+    </element>
 </database>
